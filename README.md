@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on full stack TypeScript mental health apps
 - 🌱 I’m currently learning Clojure
 - 💬 Ask me about ...
