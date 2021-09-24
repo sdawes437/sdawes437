@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Clojure
 - 💬 Ask me about ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 ## My Github Stats
 
