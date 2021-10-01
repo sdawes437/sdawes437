@@ -7,6 +7,9 @@
 ## My Github Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sdawes437&show_icons=true&theme=buefy)
